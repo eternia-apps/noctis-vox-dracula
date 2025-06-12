@@ -1,34 +1,19 @@
 # 🦇 Noctis Vox (Drácula)
 
-**Noctis Vox (Drácula)** es una experiencia inmersiva en formato de audiolibro, basada en la obra clásica de Bram Stoker.  
-Diseñada con una interfaz elegante, sonido envolvente y navegación intuitiva, la app ofrece una nueva forma de vivir esta historia gótica.
+**Noctis Vox** es una experiencia inmersiva de audiolibro que da vida a la obra maestra *Drácula* de Bram Stoker a través de una interfaz elegante y oscura. Esta app fue diseñada para acompañar a los oyentes en un viaje narrativo, capítulo a capítulo, con ilustraciones únicas y una ambientación sonora envolvente.
 
----
+## 🎧 Características
 
-## 📲 Características principales
+- Reproducción capítulo por capítulo del audiolibro *Drácula*.
+- Velocidad de reproducción ajustable.
+- Temporizador de sueño para escuchar antes de dormir.
+- Control desde pantalla bloqueada y centro de control.
+- Avance automático al siguiente capítulo.
+- Menú interactivo de capítulos con seguimiento del progreso.
 
-- 🎧 Reproductor de audio con controles intuitivos
-- 📚 Acceso por capítulos, con imágenes ilustrativas
-- 🕰️ Temporizador de sueño y control de velocidad de narración
-- 🔒 Primeros **3 capítulos gratis**, resto disponibles con una compra única
+## 🔓 Modelo Freemium
 
----
-
-## 🛠️ Tecnologías
-
-- Swift / SwiftUI
-- AVFoundation
-- MediaPlayer
-- GitHub Pages (soporte y marketing)
-
----
-
-## 💬 Soporte
-
-¿Tienes dudas o comentarios? Escríbenos a:  
-📧 **eterniaapps@gmail.com**
-
----
+Los primeros **3 capítulos** están disponibles de forma gratuita. Para continuar escuchando la historia completa, puedes desbloquear el resto del contenido mediante un único pago dentro de la app.
 
 ## 📱 Capturas de pantalla
 
@@ -41,18 +26,10 @@ Diseñada con una interfaz elegante, sonido envolvente y navegación intuitiva, 
 ### Reproducción de audio
 ![Reproducción de audio](screenshots/screen3.png)
 
----
+## 🔗 Sitio web oficial
 
-## 🛒 ¿Dónde conseguirla?
-
-📱 Disponible próximamente en la App Store.
+Pronto estará disponible en: [https://eternia-ai.github.io/noctis-vox](https://eternia-ai.github.io/noctis-vox)
 
 ---
 
-## 🧛 Sobre el proyecto
-
-Este proyecto fue creado por **Fernando Del Río Moreno** como una forma de reimaginar los clásicos literarios en una experiencia moderna y envolvente.
-
----
-
-© 2025 Eternia. Todos los derechos reservados.
+Desarrollado por **Eternia AI** | Contacto: contacto@eternia.ai
