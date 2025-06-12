@@ -30,13 +30,16 @@ Diseñada con una interfaz elegante, sonido envolvente y navegación intuitiva, 
 
 ---
 
-## 📸 Capturas de pantalla
+## 📱 Capturas de pantalla
 
-| Pantalla principal | Índice de capítulos | Reproductor |
-|--------------------|---------------------|-------------|
-| ![Main](./screenshots/screen1.jpg) | ![Index](./screenshots/screen2.jpg) | ![Player](./screenshots/screen3.jpg) |
+### Pantalla principal
+![Pantalla principal](screenshots/screen1.png)
 
-> Asegúrate de colocar tus capturas reales en una carpeta llamada `screenshots/`.
+### Menú de capítulos
+![Menú de capítulos](screenshots/screen2.png)
+
+### Reproducción de audio
+![Reproducción de audio](screenshots/screen3.png)
 
 ---
 
