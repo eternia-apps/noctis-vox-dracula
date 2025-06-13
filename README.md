@@ -1,9 +1,6 @@
-# Noctis Vox (Drácula)
+# 🦇 Noctis Vox (Drácula)
 
-Audiolibro interactivo inspirado en la obra de Bram Stoker.
-
-## 🎧 Descripción
-Una experiencia auditiva inmersiva de *Drácula* con capítulos ilustrados y controles de reproducción personalizados.
+Audiolibro interactivo inspirado en la obra de Bram Stoker. Vive la experiencia sonora capítulo por capítulo con ambientación, ilustraciones y controles de reproducción diseñados para sumergirte en el mundo gótico de Drácula.
 
 ---
 
@@ -22,12 +19,16 @@ Una experiencia auditiva inmersiva de *Drácula* con capítulos ilustrados y con
 
 ## 🌐 Sitio web oficial
 
-https://github.com/eternia-apps/noctis-vox-dracula/
+👉 [https://eternia-apps.github.io/noctis-vox-dracula/](https://eternia-apps.github.io/noctis-vox-dracula/)
 
 ---
 
 ## 📱 Versión
+
 **1.0**
 
+---
+
 ## © Copyright
-© 2025 Fernando del Río — Todos los derechos reservados.
+
+© 2025 Fernando del Río – Todos los derechos reservados.
